@@ -141,11 +141,9 @@ For detailed training results, visualizations, and implementation details, refer
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/sillysaad/EyeDiseaseDetection.git
 cd EyeDiseaseDetection
 ```
-
-Replace the placeholder with your actual GitHub repository URL.
 
 ### 2. Create a Virtual Environment (Recommended)
 
@@ -216,7 +214,7 @@ To reproduce the training workflow:
 
 ## 👨‍💻 Author
 
-Saaduddin Shaikh
+Saaduddin Shaikh - 
 Developed as a deep learning project exploring computer vision, transfer learning, image augmentation, and web deployment.
 
 <p align="center">
@@ -224,6 +222,7 @@ Developed as a deep learning project exploring computer vision, transfer learnin
     <img src="https://img.shields.io/badge/🌐_Explore_the_Live_Project-Visit_Now-6C63FF?style=for-the-badge" alt="Explore Live Project"/>
   </a>
 </p>
+<img width="1914" height="944" alt="image" src="https://github.com/user-attachments/assets/8c837ff0-af46-4e3a-80bc-a1c143c72c98" />
 
 ---
 
